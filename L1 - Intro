@@ -1,0 +1,32 @@
+chatgpt is nothing but predecting the next number or iteration or word by using tokenization 
+Ex-> ME: Hii How are you
+     GPT: Hii How are you , "I
+     GPT: Hii How are you , "I am
+     GPT: Hii How are you , "I am fine"
+     Final output: "I am Fine"
+
+Now, the main question is what is tokenization 
+-> Computer only understands the 0,1 language so, every term converted into tokens and gpt takes the token to predict the 
+   next token and after predtiction it converts it to actual output ( the way user asked )
+-> Hiii - 101
+-> How - 201
+-> are - 301
+-> you - 401
+->-> [101, 201,301, 401] - this will go to chatgpt and then it will predict the next tokens of "I am fine" and it will give the answer one by one
+     Now, just assume , I - 111, am - 222, fine - 333 has these tokens
+-> GPT: 101, 201 301 401 " 111
+-> GPT: 101, 201 301 401 " 111 222
+-> GPT: 101, 201 301 401 " 111 222 333
+and then it'll get converted to the actual output for better readibility
+
+
+
+
+                         Generative AI
+     "It can generate the new data by predicting the next pattern"
+everytime you ask the same question it'll give uh different answer , lemme tell you how
+->For ex: 1 2 4 what will be the next term????
+most of you guys will say 8 and some will say 7 
+-> 1 2 4 7
+-> 1 2 4 8 
+both are correct , It's just a way to prediction and recognizing the pattern
