@@ -1,4 +1,4 @@
-chatgpt is nothing but predecting the next number or iteration or word by using tokenization 
+chatgpt is nothing but predecting the next number or iteration or word or (predicting the next token) by using tokenization 
 Ex-> ME: Hii How are you
      GPT: Hii How are you , "I
      GPT: Hii How are you , "I am
