@@ -1,6 +1,7 @@
 LLM can't calculate the things, it can just predict 
 mostly , it can't calculate even 2+2 it's all about prediction, it can't ever run the code
- for ex- for 2+2, gpt has saw it multiple times so It can predict but I asked this question "22323232323 × 2323232323232567876"
+ for ex- for 2+2, gpt has saw it multiple times so It can predict but I asked this
+question "22323232323 × 2323232323232567876"
  gpt denied to answer this question, need a proff, okay !, here is the proff sirrrr
   *************************************************************************************************
             Qn:- without any external help
@@ -8,9 +9,11 @@ mostly , it can't calculate even 2+2 it's all about prediction, it can't ever ru
               ChatGPT said:
               😅 As a pure LLM, I can’t actually calculate that.
               Why?
-              Because I don’t have a real “math engine” inside me — I’m just predicting likely text. For huge numbers like:
+              Because I don’t have a real “math engine” inside me — I’m just predicting likely text. 
+              For huge numbers like:
               22323232323 × 2323232323232567876
-              there’s no way I can predict the exact result reliably. I might give you a plausible-looking big number, but it could be completely wrong.
+              there’s no way I can predict the exact result reliably. I might give you a 
+             plausible-looking big number, but it could be completely wrong.
               This is exactly where my LLM limits show:
               I don’t do actual step-by-step multiplication.
               I only learned patterns of how such numbers look in text.            
@@ -21,7 +24,18 @@ mostly , it can't calculate even 2+2 it's all about prediction, it can't ever ru
 
 Hope uh get your answer, so I'm again saying it is all about prediction + pattern recognization.
 So, now the question is , from where chatgpt will give the answer the answer is "External Help"
-so, what will he do, he will write the code of python of the given problem and then it'll go to any external compiler 
-( which is given to him/her, idk it's male or female ohhh sorry, it an AI, okayyy) and then external compiler will compile the whole code and then it'll give the answer
+so, what will he do, he will write the code of python of the given problem and then it'll go to 
+any external compiler ( which is given to him/her, idk it's male or female ohhh sorry, it an AI, okayyy) 
+and then external compiler will compile 
+the whole code and then it'll give the answer
 to gpt and then gpt will give the answer to us.
+
+okaayyyy, next part, LLM usually don't predict your last answers but what it'll do is it'll go to all 
+previous questions and as well as answers which is given by him only and then it remembers your everything 
+we think he remembers our's everything but deep down he is predicting the answers by just checking 
+his previous response...
+
+
+
+
 
